@@ -1,0 +1,558 @@
+[[1]]
+[[1]][[1]]
+data frame with 0 columns and 0 rows
+
+[[1]][[2]]
+data frame with 0 columns and 0 rows
+
+[[1]][[3]]
+data frame with 0 columns and 0 rows
+
+[[1]][[4]]
+data frame with 0 columns and 0 rows
+
+[[1]][[5]]
+data frame with 0 columns and 0 rows
+
+[[1]][[6]]
+data frame with 0 columns and 0 rows
+
+[[1]][[7]]
+data frame with 0 columns and 0 rows
+
+[[1]][[8]]
+data frame with 0 columns and 0 rows
+
+[[1]][[9]]
+data frame with 0 columns and 0 rows
+
+[[1]][[10]]
+data frame with 0 columns and 0 rows
+
+[[1]][[11]]
+data frame with 0 columns and 0 rows
+
+
+[[2]]
+[[2]][[1]]
+data frame with 0 columns and 0 rows
+
+[[2]][[2]]
+data frame with 0 columns and 0 rows
+
+[[2]][[3]]
+data frame with 0 columns and 0 rows
+
+[[2]][[4]]
+data frame with 0 columns and 0 rows
+
+[[2]][[5]]
+data frame with 0 columns and 0 rows
+
+[[2]][[6]]
+data frame with 0 columns and 0 rows
+
+[[2]][[7]]
+data frame with 0 columns and 0 rows
+
+[[2]][[8]]
+data frame with 0 columns and 0 rows
+
+[[2]][[9]]
+data frame with 0 columns and 0 rows
+
+[[2]][[10]]
+data frame with 0 columns and 0 rows
+
+[[2]][[11]]
+data frame with 0 columns and 0 rows
+
+
+[[3]]
+[[3]][[1]]
+data frame with 0 columns and 0 rows
+
+[[3]][[2]]
+data frame with 0 columns and 0 rows
+
+[[3]][[3]]
+data frame with 0 columns and 0 rows
+
+[[3]][[4]]
+data frame with 0 columns and 0 rows
+
+[[3]][[5]]
+data frame with 0 columns and 0 rows
+
+[[3]][[6]]
+data frame with 0 columns and 0 rows
+
+[[3]][[7]]
+data frame with 0 columns and 0 rows
+
+[[3]][[8]]
+data frame with 0 columns and 0 rows
+
+[[3]][[9]]
+data frame with 0 columns and 0 rows
+
+[[3]][[10]]
+data frame with 0 columns and 0 rows
+
+[[3]][[11]]
+data frame with 0 columns and 0 rows
+
+
+[[4]]
+[[4]][[1]]
+data frame with 0 columns and 0 rows
+
+[[4]][[2]]
+data frame with 0 columns and 0 rows
+
+[[4]][[3]]
+data frame with 0 columns and 0 rows
+
+[[4]][[4]]
+data frame with 0 columns and 0 rows
+
+[[4]][[5]]
+data frame with 0 columns and 0 rows
+
+[[4]][[6]]
+data frame with 0 columns and 0 rows
+
+[[4]][[7]]
+data frame with 0 columns and 0 rows
+
+[[4]][[8]]
+data frame with 0 columns and 0 rows
+
+[[4]][[9]]
+data frame with 0 columns and 0 rows
+
+[[4]][[10]]
+data frame with 0 columns and 0 rows
+
+[[4]][[11]]
+data frame with 0 columns and 0 rows
+
+
+[[5]]
+[[5]][[1]]
+data frame with 0 columns and 0 rows
+
+[[5]][[2]]
+data frame with 0 columns and 0 rows
+
+[[5]][[3]]
+data frame with 0 columns and 0 rows
+
+[[5]][[4]]
+data frame with 0 columns and 0 rows
+
+[[5]][[5]]
+data frame with 0 columns and 0 rows
+
+[[5]][[6]]
+data frame with 0 columns and 0 rows
+
+[[5]][[7]]
+data frame with 0 columns and 0 rows
+
+[[5]][[8]]
+data frame with 0 columns and 0 rows
+
+[[5]][[9]]
+data frame with 0 columns and 0 rows
+
+[[5]][[10]]
+data frame with 0 columns and 0 rows
+
+[[5]][[11]]
+data frame with 0 columns and 0 rows
+
+
+[[6]]
+[[6]][[1]]
+data frame with 0 columns and 0 rows
+
+[[6]][[2]]
+data frame with 0 columns and 0 rows
+
+[[6]][[3]]
+data frame with 0 columns and 0 rows
+
+[[6]][[4]]
+data frame with 0 columns and 0 rows
+
+[[6]][[5]]
+data frame with 0 columns and 0 rows
+
+[[6]][[6]]
+data frame with 0 columns and 0 rows
+
+[[6]][[7]]
+data frame with 0 columns and 0 rows
+
+[[6]][[8]]
+data frame with 0 columns and 0 rows
+
+[[6]][[9]]
+data frame with 0 columns and 0 rows
+
+[[6]][[10]]
+data frame with 0 columns and 0 rows
+
+[[6]][[11]]
+data frame with 0 columns and 0 rows
+
+
+[[7]]
+[[7]][[1]]
+data frame with 0 columns and 0 rows
+
+[[7]][[2]]
+data frame with 0 columns and 0 rows
+
+[[7]][[3]]
+data frame with 0 columns and 0 rows
+
+[[7]][[4]]
+data frame with 0 columns and 0 rows
+
+[[7]][[5]]
+data frame with 0 columns and 0 rows
+
+[[7]][[6]]
+data frame with 0 columns and 0 rows
+
+[[7]][[7]]
+data frame with 0 columns and 0 rows
+
+[[7]][[8]]
+data frame with 0 columns and 0 rows
+
+[[7]][[9]]
+data frame with 0 columns and 0 rows
+
+[[7]][[10]]
+data frame with 0 columns and 0 rows
+
+[[7]][[11]]
+data frame with 0 columns and 0 rows
+
+
+[[8]]
+[[8]][[1]]
+             edge                                        explained.by
+1 ADORA2B->CXCL12 ADORA2B->TPD52L2->TPD52L1->HDAC1->UBC->VCAN->CXCL12
+2     ARPC3->PTK2                                    ARPC3->EZR->PTK2
+3   GNA13->CXCL12                     GNA13->RGNEF->UBC->VCAN->CXCL12
+
+[[8]][[2]]
+             edge                explained.by
+1 ADORA2B->CXCL12   ADORA2B->EZR->FN1->CXCL12
+2     ARPC3->PTK2          ARPC3->ITGA4->PTK2
+3   GNA13->CXCL12 GNA13->ARHGEF1->FN1->CXCL12
+
+[[8]][[3]]
+             edge
+1 ADORA2B->CXCL12
+2     ARPC3->PTK2
+3   GNA13->CXCL12
+                                                       explained.by
+1 ADORA2B->GNAS->JMJD7-PLA2G4B->PRKCB->CARD11->IKBKG->NFKB2->CXCL12
+2                                                              none
+3                  GNA13->ARHGEF12->RHOA->RAC2->RELA->NFKB2->CXCL12
+
+[[8]][[4]]
+             edge                                      explained.by
+1 ADORA2B->CXCL12 ADORA2B->SLC9A3R2->ACTN4->SERPINE1->ELANE->CXCL12
+2     ARPC3->PTK2                    ARPC3->WASF2->FYN->NEDD9->PTK2
+3   GNA13->CXCL12         GNA13->TGFBR1->TGFB1->THBS1->CTSG->CXCL12
+
+[[8]][[5]]
+             edge               explained.by
+1 ADORA2B->CXCL12 ADORA2B->ADA->DPP4->CXCL12
+2     ARPC3->PTK2  ARPC3->BAT3->PTPN12->PTK2
+3   GNA13->CXCL12       GNA13->CXCR4->CXCL12
+
+[[8]][[6]]
+             edge explained.by
+1 ADORA2B->CXCL12         none
+2     ARPC3->PTK2         none
+3   GNA13->CXCL12         none
+
+[[8]][[7]]
+             edge                                     explained.by
+1 ADORA2B->CXCL12 ADORA2B->TPD52L2->APP->GRB2->UBB->DAZAP2->CXCL12
+2     ARPC3->PTK2                                ARPC3->GRB2->PTK2
+3   GNA13->CXCL12 GNA13->ARHGEF1->CDC5L->ACTB->UBB->DAZAP2->CXCL12
+
+[[8]][[8]]
+             edge    explained.by
+1 ADORA2B->CXCL12 ADORA2B->CXCL12
+2     ARPC3->PTK2     ARPC3->PTK2
+3   GNA13->CXCL12   GNA13->CXCL12
+
+[[8]][[9]]
+             edge    explained.by
+1 ADORA2B->CXCL12 ADORA2B->CXCL12
+2     ARPC3->PTK2     ARPC3->PTK2
+3   GNA13->CXCL12   GNA13->CXCL12
+
+[[8]][[10]]
+             edge             explained.by
+1 ADORA2B->CXCL12    ADORA2B->LRBA->CXCL12
+2     ARPC3->PTK2 ARPC3->MYOC->STT3A->PTK2
+3   GNA13->CXCL12     GNA13->VSTM1->CXCL12
+
+[[8]][[11]]
+             edge             explained.by
+1 ADORA2B->CXCL12    ADORA2B->LRBA->CXCL12
+2     ARPC3->PTK2 ARPC3->MYOC->STT3A->PTK2
+3   GNA13->CXCL12     GNA13->VSTM1->CXCL12
+
+
+[[9]]
+[[9]][[1]]
+             edge                                        explained.by
+1 ADORA2B->CXCL12 ADORA2B->TPD52L2->TPD52L1->HDAC1->UBC->VCAN->CXCL12
+2     PTK2->ARPC3                                    PTK2->UBC->ARPC3
+3   CXCL12->GNA13                 CXCL12->DAZAP2->CTNNB1->CDH1->GNA13
+
+[[9]][[2]]
+             edge               explained.by
+1 ADORA2B->CXCL12  ADORA2B->EZR->FN1->CXCL12
+2     PTK2->ARPC3          PTK2->CTTN->ARPC3
+3   CXCL12->GNA13 CXCL12->DAZAP2->UBC->GNA13
+
+[[9]][[3]]
+             edge
+1 ADORA2B->CXCL12
+2     PTK2->ARPC3
+3   CXCL12->GNA13
+                                                       explained.by
+1 ADORA2B->GNAS->JMJD7-PLA2G4B->PRKCB->CARD11->IKBKG->NFKB2->CXCL12
+2                                           PTK2->PXN->ACTG1->ARPC3
+3                   CXCL12->CXCR4->JAK3->STAT1->VEGFA->IGF1R->GNA13
+
+[[9]][[4]]
+             edge                                      explained.by
+1 ADORA2B->CXCL12 ADORA2B->SLC9A3R2->ACTN4->SERPINE1->ELANE->CXCL12
+2     PTK2->ARPC3                    PTK2->TP53->ESR1->PRMT1->ARPC3
+3   CXCL12->GNA13                              CXCL12->CXCR4->GNA13
+
+[[9]][[5]]
+             edge               explained.by
+1 ADORA2B->CXCL12 ADORA2B->ADA->DPP4->CXCL12
+2     PTK2->ARPC3   PTK2->TP53->PRMT1->ARPC3
+3   CXCL12->GNA13       CXCL12->CXCR4->GNA13
+
+[[9]][[6]]
+             edge                                          explained.by
+1 ADORA2B->CXCL12                                                  none
+2     PTK2->ARPC3                                     PTK2->GRB2->ARPC3
+3   CXCL12->GNA13 CXCL12->DPP4->CCL5->RELA->LMO2->CDC5L->ARHGEF1->GNA13
+
+[[9]][[7]]
+             edge                                     explained.by
+1 ADORA2B->CXCL12 ADORA2B->TPD52L2->APP->GRB2->UBB->DAZAP2->CXCL12
+2     PTK2->ARPC3                                PTK2->GRB2->ARPC3
+3   CXCL12->GNA13    CXCL12->DAZAP2->UBB->ACTB->EIF3B->USP3->GNA13
+
+[[9]][[8]]
+             edge    explained.by
+1 ADORA2B->CXCL12 ADORA2B->CXCL12
+2     PTK2->ARPC3            none
+3   CXCL12->GNA13            none
+
+[[9]][[9]]
+             edge    explained.by
+1 ADORA2B->CXCL12 ADORA2B->CXCL12
+2     PTK2->ARPC3     PTK2->ARPC3
+3   CXCL12->GNA13   CXCL12->GNA13
+
+[[9]][[10]]
+             edge             explained.by
+1 ADORA2B->CXCL12    ADORA2B->LRBA->CXCL12
+2     PTK2->ARPC3 PTK2->STT3A->MYOC->ARPC3
+3   CXCL12->GNA13     CXCL12->VSTM1->GNA13
+
+[[9]][[11]]
+             edge             explained.by
+1 ADORA2B->CXCL12    ADORA2B->LRBA->CXCL12
+2     PTK2->ARPC3 PTK2->STT3A->MYOC->ARPC3
+3   CXCL12->GNA13     CXCL12->VSTM1->GNA13
+
+
+[[10]]
+[[10]][[1]]
+           edge                        explained.by
+1  BMPR2->NR3C1           BMPR2->XIAP->STUB1->NR3C1
+2 TUBA1A->GNA13                  TUBA1A->UBC->GNA13
+3  NR3C1->BMPR2                   NR3C1->UBC->BMPR2
+4 ARPC3->CXCL12       ARPC3->WAS->UBC->VCAN->CXCL12
+5 CXCL12->ARPC3 CXCL12->DAZAP2->DCUN1D1->UBC->ARPC3
+6 GNA13->TUBA1A           GNA13->RGNEF->UBC->TUBA1A
+
+[[10]][[2]]
+           edge         explained.by
+1  BMPR2->NR3C1    BMPR2->UBC->NR3C1
+2 TUBA1A->GNA13 TUBA1A->LRRK2->GNA13
+3  NR3C1->BMPR2    NR3C1->UBC->BMPR2
+4 ARPC3->CXCL12   ARPC3->FN1->CXCL12
+5 CXCL12->ARPC3   CXCL12->FN1->ARPC3
+6 GNA13->TUBA1A GNA13->LRRK2->TUBA1A
+
+[[10]][[3]]
+           edge                              explained.by
+1  BMPR2->NR3C1                                      none
+2 TUBA1A->GNA13                                      none
+3  NR3C1->BMPR2                                      none
+4 ARPC3->CXCL12                                      none
+5 CXCL12->ARPC3    CXCL12->CXCR4->PTK2B->PXN->ACTB->ARPC3
+6 GNA13->TUBA1A GNA13->JMJD7-PLA2G4B->PRKCA->GJA1->TUBA1A
+
+[[10]][[4]]
+           edge                                explained.by
+1  BMPR2->NR3C1                   BMPR2->MOS->HSPA1A->NR3C1
+2 TUBA1A->GNA13             TUBA1A->SYK->JAK1->CXCR4->GNA13
+3  NR3C1->BMPR2          NR3C1->CEBPA->CREBBP->CTBP1->BMPR2
+4 ARPC3->CXCL12 ARPC3->WASF2->ABL1->C3->LRP1->ELANE->CXCL12
+5 CXCL12->ARPC3            CXCL12->FN1->IGFBP5->BAT3->ARPC3
+6 GNA13->TUBA1A                   GNA13->CDH1->EGFR->TUBA1A
+
+[[10]][[5]]
+           edge                       explained.by
+1  BMPR2->NR3C1        BMPR2->CTBP1->CREBBP->NR3C1
+2 TUBA1A->GNA13        TUBA1A->EGFR->CTNNB1->GNA13
+3  NR3C1->BMPR2        NR3C1->DCAF6->BMPR1B->BMPR2
+4 ARPC3->CXCL12  ARPC3->BAT3->PRPF40A->FN1->CXCL12
+5 CXCL12->ARPC3 CXCL12->CXCR4->STAT1->PRMT1->ARPC3
+6 GNA13->TUBA1A          GNA13->PRKCD->CNP->TUBA1A
+
+[[10]][[6]]
+           edge                                       explained.by
+1  BMPR2->NR3C1                                               none
+2 TUBA1A->GNA13        TUBA1A->IKBKG->KRT18->CDC5L->ARHGEF1->GNA13
+3  NR3C1->BMPR2                                               none
+4 ARPC3->CXCL12                                               none
+5 CXCL12->ARPC3 CXCL12->DPP4->CCL5->RELA->KPNA2->FTH1->GRB2->ARPC3
+6 GNA13->TUBA1A                                               none
+
+[[10]][[7]]
+           edge                                explained.by
+1  BMPR2->NR3C1   BMPR2->PRKG1->SMAD4->SMAD2->ATP1B1->NR3C1
+2 TUBA1A->GNA13            TUBA1A->ACTB->EIF3B->USP3->GNA13
+3  NR3C1->BMPR2 NR3C1->SMARCA2->TRIM33->SMAD4->PRKG1->BMPR2
+4 ARPC3->CXCL12            ARPC3->GRB2->UBB->DAZAP2->CXCL12
+5 CXCL12->ARPC3            CXCL12->DAZAP2->UBB->GRB2->ARPC3
+6 GNA13->TUBA1A         GNA13->ARHGEF1->CDC5L->ACTB->TUBA1A
+
+[[10]][[8]]
+           edge               explained.by
+1  BMPR2->NR3C1                       none
+2 TUBA1A->GNA13                       none
+3  NR3C1->BMPR2                       none
+4 ARPC3->CXCL12 ARPC3->PIK3R1->APP->CXCL12
+5 CXCL12->ARPC3                       none
+6 GNA13->TUBA1A GNA13->GNB1->TUBB3->TUBA1A
+
+[[10]][[9]]
+           edge                     explained.by
+1  BMPR2->NR3C1 BMPR2->SMAD4->NCOR1->MED1->NR3C1
+2 TUBA1A->GNA13    TUBA1A->AKAP9->RASGRF2->GNA13
+3  NR3C1->BMPR2 NR3C1->MED1->NCOR2->SMAD4->BMPR2
+4 ARPC3->CXCL12    ARPC3->PIK3R1->BDKRB2->CXCL12
+5 CXCL12->ARPC3  CXCL12->ARHGEF12->PIK3R2->ARPC3
+6 GNA13->TUBA1A    GNA13->RAC1->HSP90AA1->TUBA1A
+
+[[10]][[10]]
+           edge  explained.by
+1  BMPR2->NR3C1  BMPR2->NR3C1
+2 TUBA1A->GNA13 TUBA1A->GNA13
+3  NR3C1->BMPR2  NR3C1->BMPR2
+4 ARPC3->CXCL12 ARPC3->CXCL12
+5 CXCL12->ARPC3 CXCL12->ARPC3
+6 GNA13->TUBA1A GNA13->TUBA1A
+
+[[10]][[11]]
+           edge  explained.by
+1  BMPR2->NR3C1  BMPR2->NR3C1
+2 TUBA1A->GNA13 TUBA1A->GNA13
+3  NR3C1->BMPR2  NR3C1->BMPR2
+4 ARPC3->CXCL12 ARPC3->CXCL12
+5 CXCL12->ARPC3 CXCL12->ARPC3
+6 GNA13->TUBA1A GNA13->TUBA1A
+
+
+[[11]]
+[[11]][[1]]
+           edge                  explained.by
+1  BMPR2->NR3C1     BMPR2->XIAP->STUB1->NR3C1
+2 TUBA1A->GNA13            TUBA1A->UBC->GNA13
+3 ARPC3->CXCL12 ARPC3->WAS->UBC->VCAN->CXCL12
+
+[[11]][[2]]
+           edge         explained.by
+1  BMPR2->NR3C1    BMPR2->UBC->NR3C1
+2 TUBA1A->GNA13 TUBA1A->LRRK2->GNA13
+3 ARPC3->CXCL12   ARPC3->FN1->CXCL12
+
+[[11]][[3]]
+           edge explained.by
+1  BMPR2->NR3C1         none
+2 TUBA1A->GNA13         none
+3 ARPC3->CXCL12         none
+
+[[11]][[4]]
+           edge                                explained.by
+1  BMPR2->NR3C1                   BMPR2->MOS->HSPA1A->NR3C1
+2 TUBA1A->GNA13             TUBA1A->SYK->JAK1->CXCR4->GNA13
+3 ARPC3->CXCL12 ARPC3->WASF2->ABL1->C3->LRP1->ELANE->CXCL12
+
+[[11]][[5]]
+           edge                      explained.by
+1  BMPR2->NR3C1       BMPR2->CTBP1->CREBBP->NR3C1
+2 TUBA1A->GNA13       TUBA1A->EGFR->CTNNB1->GNA13
+3 ARPC3->CXCL12 ARPC3->BAT3->PRPF40A->FN1->CXCL12
+
+[[11]][[6]]
+           edge                                explained.by
+1  BMPR2->NR3C1                                        none
+2 TUBA1A->GNA13 TUBA1A->IKBKG->KRT18->CDC5L->ARHGEF1->GNA13
+3 ARPC3->CXCL12                                        none
+
+[[11]][[7]]
+           edge                              explained.by
+1  BMPR2->NR3C1 BMPR2->PRKG1->SMAD4->SMAD2->ATP1B1->NR3C1
+2 TUBA1A->GNA13          TUBA1A->ACTB->EIF3B->USP3->GNA13
+3 ARPC3->CXCL12          ARPC3->GRB2->UBB->DAZAP2->CXCL12
+
+[[11]][[8]]
+           edge               explained.by
+1  BMPR2->NR3C1                       none
+2 TUBA1A->GNA13                       none
+3 ARPC3->CXCL12 ARPC3->PIK3R1->APP->CXCL12
+
+[[11]][[9]]
+           edge                     explained.by
+1  BMPR2->NR3C1 BMPR2->SMAD4->NCOR1->MED1->NR3C1
+2 TUBA1A->GNA13    TUBA1A->AKAP9->RASGRF2->GNA13
+3 ARPC3->CXCL12    ARPC3->PIK3R1->BDKRB2->CXCL12
+
+[[11]][[10]]
+           edge  explained.by
+1  BMPR2->NR3C1  BMPR2->NR3C1
+2 TUBA1A->GNA13 TUBA1A->GNA13
+3 ARPC3->CXCL12 ARPC3->CXCL12
+
+[[11]][[11]]
+           edge  explained.by
+1  BMPR2->NR3C1  BMPR2->NR3C1
+2 TUBA1A->GNA13 TUBA1A->GNA13
+3 ARPC3->CXCL12 ARPC3->CXCL12
+
+
